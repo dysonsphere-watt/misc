@@ -8,7 +8,9 @@ Simple couple of scripts to generate robot statuses and send them to the MQTT br
 
 ## Setup
 
-With Python set up, move the terminal into the `robot_metrics_gen` directory and run
+With Python set up, you can choose to clone the project or download it's Zip.
+
+When the project is downloaded locally, move the terminal into the `robot_metrics_gen` directory and run
 
 ```bash
 pip install -r requirements.txt
