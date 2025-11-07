@@ -1,0 +1,383 @@
+{
+  "ver": "0.18",
+  "vid": "ds0001",
+  "seq": 1,
+  "ack": 1,
+  "type": 51,
+  "timestamp": "2025-11-07 03:36:47",
+  "data": {
+    "ret_code": 0,
+    "mode_val": 1,
+    "dev_type": "robot",
+    "task_id": 0,
+    "task_plan": "No Task",
+    "task_status": 0,
+    "car_status": {
+      "c_sta_code": "waiting",
+      "pos_id": "P0",
+      "sub_pos_id": "1",
+      "t_pos_id": "P0",
+      "sub_t_pos_id": "1",
+      "c_btr": 83
+    },
+    "btr_status": {
+      "b_sta_code": "btr_charging",
+      "b_btr": 67,
+      "chg_gun": 1,
+      "chg_line": 1,
+      "remain_chg_time": 1126
+    },
+    "detail": {
+      "car_detail": {
+        "c_temp": 56,
+        "c_humidity": 23,
+        "c_xyz": "0,0,0",
+        "c_pos": "0,0",
+        "c_speed": "6km/h"
+      },
+      "btr_detail": {
+        "b_temp": 60,
+        "b_battery": 88,
+        "b_out_current": 20,
+        "b_out_voltage": 220,
+        "b_in_current": 19,
+        "b_in_voltage": 219
+      },
+      "robot_info": {
+        "pose": {
+          "local_x": 65.04871765434866,
+          "local_y": 43.368053713093765,
+          "angle": 12.32530117732192
+        },
+        "is_charging": false,
+        "battery": 60.61168385521919,
+        "battery_tempature": [
+          60,
+          60
+        ],
+        "speed": 3.898825810362542,
+        "is_obstacle_brake": false,
+        "running_time": 491,
+        "system_info": {
+          "cpu_info": {
+            "cpu0": {
+              "usage": 0.15656188592161335
+            },
+            "cpu1": {
+              "usage": 0.13125133449562087
+            }
+          },
+          "memory_info": {
+            "total": 128,
+            "used": 55,
+            "usage": 0.43
+          },
+          "storage_info": {
+            "total": 128,
+            "used": 107,
+            "usage": 0.84
+          }
+        },
+        "sensor_info": {
+          "lidar_status": 0,
+          "imu_status": 0,
+          "laser_1_status": 0,
+          "laser_2_status": 0,
+          "can_status": 0
+        }
+      }
+    },
+    "ad_left": 1,
+    "ad_right": 1,
+    "door_left": 1,
+    "door_right": 1
+  }
+}
+
+{
+  "ver": "0.18",
+  "vid": "ds0001",
+  "seq": 1,
+  "ack": 1,
+  "type": 51,
+  "timestamp": "2025-11-07 03:36:47",
+  "data": {
+    "ret_code": 0,
+    "mode_val": 1,
+    "dev_type": "robot",
+    "task_id": 0,
+    "task_plan": "No Task",
+    "task_status": 0,
+    "car_status": {
+      "c_sta_code": "waiting",
+      "pos_id": "P0",
+      "sub_pos_id": "1",
+      "t_pos_id": "P0",
+      "sub_t_pos_id": "1",
+      "c_btr": 83
+    },
+    "btr_status": {
+      "b_sta_code": "btr_charging",
+      "b_btr": 67,
+      "chg_gun": 1,
+      "chg_line": 1,
+      "remain_chg_time": 1126
+    },
+    "detail": {
+      "car_detail": {
+        "c_temp": 56,
+        "c_humidity": 23,
+        "c_xyz": "0,0,0",
+        "c_pos": "0,0",
+        "c_speed": "6km/h"
+      },
+      "btr_detail": {
+        "b_temp": 60,
+        "b_battery": 88,
+        "b_out_current": 20,
+        "b_out_voltage": 220,
+        "b_in_current": 19,
+        "b_in_voltage": 219
+      },
+      "robot_info": {
+        "pose": {
+          "local_x": 65.04871765434866,
+          "local_y": 43.368053713093765,
+          "angle": 12.32530117732192
+        },
+        "is_charging": false,
+        "battery": 60.61168385521919,
+        "battery_tempature": [
+          60,
+          60
+        ],
+        "speed": 3.898825810362542,
+        "is_obstacle_brake": false,
+        "running_time": 491,
+        "system_info": {
+          "cpu_info": {
+            "cpu0": {
+              "usage": 0.15656188592161335
+            },
+            "cpu1": {
+              "usage": 0.13125133449562087
+            }
+          },
+          "memory_info": {
+            "total": 128,
+            "used": 55,
+            "usage": 0.43
+          },
+          "storage_info": {
+            "total": 128,
+            "used": 107,
+            "usage": 0.84
+          }
+        },
+        "sensor_info": {
+          "lidar_status": 0,
+          "imu_status": 0,
+          "laser_1_status": 0,
+          "laser_2_status": 0,
+          "can_status": 0
+        }
+      }
+    },
+    "ad_left": 1,
+    "ad_right": 1,
+    "door_left": 1,
+    "door_right": 1
+  }
+}
+
+{
+  "ver": "0.18",
+  "vid": "ds0001",
+  "seq": 1,
+  "ack": 1,
+  "type": 51,
+  "timestamp": "2025-11-07 03:36:47",
+  "data": {
+    "ret_code": 0,
+    "mode_val": 1,
+    "dev_type": "robot",
+    "task_id": 0,
+    "task_plan": "No Task",
+    "task_status": 0,
+    "car_status": {
+      "c_sta_code": "waiting",
+      "pos_id": "P0",
+      "sub_pos_id": "1",
+      "t_pos_id": "P0",
+      "sub_t_pos_id": "1",
+      "c_btr": 83
+    },
+    "btr_status": {
+      "b_sta_code": "btr_charging",
+      "b_btr": 67,
+      "chg_gun": 1,
+      "chg_line": 1,
+      "remain_chg_time": 1126
+    },
+    "detail": {
+      "car_detail": {
+        "c_temp": 56,
+        "c_humidity": 23,
+        "c_xyz": "0,0,0",
+        "c_pos": "0,0",
+        "c_speed": "6km/h"
+      },
+      "btr_detail": {
+        "b_temp": 60,
+        "b_battery": 88,
+        "b_out_current": 20,
+        "b_out_voltage": 220,
+        "b_in_current": 19,
+        "b_in_voltage": 219
+      },
+      "robot_info": {
+        "pose": {
+          "local_x": 65.04871765434866,
+          "local_y": 43.368053713093765,
+          "angle": 12.32530117732192
+        },
+        "is_charging": false,
+        "battery": 60.61168385521919,
+        "battery_tempature": [
+          60,
+          60
+        ],
+        "speed": 3.898825810362542,
+        "is_obstacle_brake": false,
+        "running_time": 491,
+        "system_info": {
+          "cpu_info": {
+            "cpu0": {
+              "usage": 0.15656188592161335
+            },
+            "cpu1": {
+              "usage": 0.13125133449562087
+            }
+          },
+          "memory_info": {
+            "total": 128,
+            "used": 55,
+            "usage": 0.43
+          },
+          "storage_info": {
+            "total": 128,
+            "used": 107,
+            "usage": 0.84
+          }
+        },
+        "sensor_info": {
+          "lidar_status": 0,
+          "imu_status": 0,
+          "laser_1_status": 0,
+          "laser_2_status": 0,
+          "can_status": 0
+        }
+      }
+    },
+    "ad_left": 1,
+    "ad_right": 1,
+    "door_left": 1,
+    "door_right": 1
+  }
+}
+
+{
+  "ver": "0.18",
+  "vid": "ds0001",
+  "seq": 1,
+  "ack": 1,
+  "type": 51,
+  "timestamp": "2025-11-07 03:36:47",
+  "data": {
+    "ret_code": 0,
+    "mode_val": 1,
+    "dev_type": "robot",
+    "task_id": 0,
+    "task_plan": "No Task",
+    "task_status": 0,
+    "car_status": {
+      "c_sta_code": "waiting",
+      "pos_id": "P0",
+      "sub_pos_id": "1",
+      "t_pos_id": "P0",
+      "sub_t_pos_id": "1",
+      "c_btr": 83
+    },
+    "btr_status": {
+      "b_sta_code": "btr_charging",
+      "b_btr": 67,
+      "chg_gun": 1,
+      "chg_line": 1,
+      "remain_chg_time": 1126
+    },
+    "detail": {
+      "car_detail": {
+        "c_temp": 56,
+        "c_humidity": 23,
+        "c_xyz": "0,0,0",
+        "c_pos": "0,0",
+        "c_speed": "6km/h"
+      },
+      "btr_detail": {
+        "b_temp": 60,
+        "b_battery": 88,
+        "b_out_current": 20,
+        "b_out_voltage": 220,
+        "b_in_current": 19,
+        "b_in_voltage": 219
+      },
+      "robot_info": {
+        "pose": {
+          "local_x": 65.04871765434866,
+          "local_y": 43.368053713093765,
+          "angle": 12.32530117732192
+        },
+        "is_charging": false,
+        "battery": 60.61168385521919,
+        "battery_tempature": [
+          60,
+          60
+        ],
+        "speed": 3.898825810362542,
+        "is_obstacle_brake": false,
+        "running_time": 491,
+        "system_info": {
+          "cpu_info": {
+            "cpu0": {
+              "usage": 0.15656188592161335
+            },
+            "cpu1": {
+              "usage": 0.13125133449562087
+            }
+          },
+          "memory_info": {
+            "total": 128,
+            "used": 55,
+            "usage": 0.43
+          },
+          "storage_info": {
+            "total": 128,
+            "used": 107,
+            "usage": 0.84
+          }
+        },
+        "sensor_info": {
+          "lidar_status": 0,
+          "imu_status": 0,
+          "laser_1_status": 0,
+          "laser_2_status": 0,
+          "can_status": 0
+        }
+      }
+    },
+    "ad_left": 1,
+    "ad_right": 1,
+    "door_left": 1,
+    "door_right": 0
+  }
+}
