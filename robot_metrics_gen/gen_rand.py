@@ -8,11 +8,11 @@ import time
 import os
 
 VID = os.getenv("ROBOT_VID", "ds0001")
-BROKER = os.getenv("MQTT_HOST", "")
-PORT = int(os.getenv("MQTT_PORT", 0))
+BROKER = os.getenv("MQTT_HOST", "watt-emqx5.blackstone-aa019cfd.southeastasia.azurecontainerapps.io")
+PORT = int(os.getenv("MQTT_PORT", 1883))
 TOPIC = f"/up/{VID}"
-USERNAME = os.environ.get("MQTT_USERNAME")
-PASSWORD = os.environ.get("MQTT_PASSWORD")
+USERNAME = os.environ.get("MQTT_USERNAME", "watt-evc-robot")
+PASSWORD = os.environ.get("MQTT_PASSWORD", "qCjEgR0mHxO4Jt1W")
 
 c_temp, b_temp, btr_temps = 20.0, 30.0, [30.0, 30.0]
 
